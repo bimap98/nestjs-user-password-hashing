@@ -12,8 +12,8 @@ async function bootstrap() {
     }))
 
     const configSwagger = new DocumentBuilder()
-        .setTitle("User Password Hashing")
-        .setDescription("Description User Password Hashing")
+        .setTitle("Username Password Hashing")
+        .setDescription("Description Username Password Hashing")
         .setVersion("1.0")
         .build()
 
